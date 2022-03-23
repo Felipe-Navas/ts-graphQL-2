@@ -25,16 +25,19 @@ This README would normally document whatever steps are necessary to get your app
   - `npm test`
 
 - Dependencies
-  -  "@typegoose/typegoose": "^9.7.0",
-  -  "apollo-server-core": "^3.6.5",
   -  "apollo-server-express": "^3.6.5",
   -  "class-validator": "^0.13.2",
   -  "express": "^4.17.3",
   -  "graphql": "^15.8.0",
-  -  "mongoose": "^6.2.7",
   -  "reflect-metadata": "^0.1.13",
-  -  "type-graphql": "^1.1.1",
-  -  "typescript": "^4.6.2"
+  -  "type-graphql": "^1.1.1"
+
+- Dependencies dev
+  - "@types/express": "^4.17.13",
+  - "@types/node": "^17.0.22",
+  - "nodemon": "^2.0.15",
+  - "ts-node": "^10.7.0"
+
 
 ### Contribution guidelines
 
